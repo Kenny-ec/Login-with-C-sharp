@@ -1,0 +1,57 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Login_Registro_de_Usuarios
+build_property.RootNamespace = Login_Registro_de_Usuarios
+build_property.ProjectDir = D:\Proyectos C#\Login-Registro-de-Usuarios\Login-Registro-de-Usuarios\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Proyectos C#\Login-Registro-de-Usuarios\Login-Registro-de-Usuarios
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Proyectos C\#/Login-Registro-de-Usuarios/Login-Registro-de-Usuarios/Views/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Proyectos C\#/Login-Registro-de-Usuarios/Login-Registro-de-Usuarios/Views/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Proyectos C\#/Login-Registro-de-Usuarios/Login-Registro-de-Usuarios/Views/Inicio/IniciarSesion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXEluaWNpYXJTZXNpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Proyectos C\#/Login-Registro-de-Usuarios/Login-Registro-de-Usuarios/Views/Inicio/Inicio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXEluaWNpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Proyectos C\#/Login-Registro-de-Usuarios/Login-Registro-de-Usuarios/Views/Inicio/RegistroUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXFJlZ2lzdHJvVXN1YXJpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Proyectos C\#/Login-Registro-de-Usuarios/Login-Registro-de-Usuarios/Views/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Proyectos C\#/Login-Registro-de-Usuarios/Login-Registro-de-Usuarios/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Proyectos C\#/Login-Registro-de-Usuarios/Login-Registro-de-Usuarios/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Proyectos C\#/Login-Registro-de-Usuarios/Login-Registro-de-Usuarios/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Proyectos C\#/Login-Registro-de-Usuarios/Login-Registro-de-Usuarios/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-peqavy63zo

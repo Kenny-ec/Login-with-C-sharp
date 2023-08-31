@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Login-Registro-de-Usuarios.props" />
+</Project>
